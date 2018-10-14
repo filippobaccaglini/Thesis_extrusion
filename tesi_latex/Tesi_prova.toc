@@ -1,0 +1,11 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{\numberline {1}Abstract}{3}
+\contentsline {chapter}{\numberline {2}Introduction}{5}
+\contentsline {chapter}{\numberline {3}Diffusion MRI}{7}
+\contentsline {chapter}{\numberline {4}Tractography}{9}
+\contentsline {chapter}{\numberline {5}COMMIT}{11}
+\contentsline {chapter}{\numberline {6}What i do}{13}
+\contentsline {section}{\numberline {6.1}Possible subsections}{13}
+\contentsline {chapter}{\numberline {7}Results}{15}
+\contentsline {chapter}{\numberline {8}Conclusion}{17}
